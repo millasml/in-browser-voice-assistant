@@ -3,6 +3,7 @@
 
 If you want a custom Alexa-esque voice assistant, but in your browser, you got it! Why would you need a voice assistant in your browser, you may ask? This voice assistant can be accessed from anywhere - your phone, your laptop, just by going to the hosted URL. Link it to your Dialogflow agent and you're all set!
 
+live demo: https://millasml.github.io/in-browser-voice-assistant/
 
 ## Rough Architecture
 ![shows the architecture of the in browser voice assistant](./architecture.jpg)
