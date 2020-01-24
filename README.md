@@ -3,7 +3,16 @@
 
 If you want a custom Alexa-esque voice assistant, but in your browser, you got it! Why would you need a voice assistant in your browser, you may ask? This voice assistant can be accessed from anywhere - your phone, your laptop, just by going to the hosted URL. Link it to your Dialogflow agent and you're all set!
 
+## Live Demo
+
 live demo: https://millasml.github.io/in-browser-voice-assistant/
+
+To make the voice assistant listen to you, say "Hey Pico". If you do not want to use the wake-word detection, you can click the 
+"Start Listening" button on the top right.
+
+The other button on the top right reflects the state of the voice assistant (either waiting, listening, thinking, or speaking). Clicking on it turns off the entire voice assistant and it won't be listening for anything. Click it again to turn it on.
+
+Right now, the voice assistant can say hi, and tell you a joke if you ask it to! Jokes are acquired form icanhazdadjoke.com
 
 ## Rough Architecture
 ![shows the architecture of the in browser voice assistant](./architecture.jpg)
