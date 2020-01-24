@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/speak/static/css/main.a823dac9.chunk.css",
-    "main.js": "/speak/static/js/main.0fdc8e1a.chunk.js",
-    "main.js.map": "/speak/static/js/main.0fdc8e1a.chunk.js.map",
-    "runtime-main.js": "/speak/static/js/runtime-main.164e8902.js",
-    "runtime-main.js.map": "/speak/static/js/runtime-main.164e8902.js.map",
-    "static/js/2.99af2242.chunk.js": "/speak/static/js/2.99af2242.chunk.js",
-    "static/js/2.99af2242.chunk.js.map": "/speak/static/js/2.99af2242.chunk.js.map",
-    "index.html": "/speak/index.html",
-    "precache-manifest.d0ff4ead4a5cf8dc23eee5fb68b3bbe4.js": "/speak/precache-manifest.d0ff4ead4a5cf8dc23eee5fb68b3bbe4.js",
-    "service-worker.js": "/speak/service-worker.js",
-    "static/css/main.a823dac9.chunk.css.map": "/speak/static/css/main.a823dac9.chunk.css.map",
-    "static/js/2.99af2242.chunk.js.LICENSE": "/speak/static/js/2.99af2242.chunk.js.LICENSE",
-    "static/media/dog-listening.jpg": "/speak/static/media/dog-listening.add4fedf.jpg",
-    "static/media/dog-off.jpg": "/speak/static/media/dog-off.fbfd34ba.jpg",
-    "static/media/dog-speaking.jpg": "/speak/static/media/dog-speaking.5c1ee2e0.jpg",
-    "static/media/dog-thinking.jpg": "/speak/static/media/dog-thinking.aae2d64d.jpg",
-    "static/media/dog-waiting.jpg": "/speak/static/media/dog-waiting.32833b10.jpg"
+    "main.css": "/in-browser-voice-assistant/static/css/main.a823dac9.chunk.css",
+    "main.js": "/in-browser-voice-assistant/static/js/main.c7e56eef.chunk.js",
+    "main.js.map": "/in-browser-voice-assistant/static/js/main.c7e56eef.chunk.js.map",
+    "runtime-main.js": "/in-browser-voice-assistant/static/js/runtime-main.03330086.js",
+    "runtime-main.js.map": "/in-browser-voice-assistant/static/js/runtime-main.03330086.js.map",
+    "static/js/2.77c88879.chunk.js": "/in-browser-voice-assistant/static/js/2.77c88879.chunk.js",
+    "static/js/2.77c88879.chunk.js.map": "/in-browser-voice-assistant/static/js/2.77c88879.chunk.js.map",
+    "index.html": "/in-browser-voice-assistant/index.html",
+    "precache-manifest.69a7ce3098873194a9a7636797a29398.js": "/in-browser-voice-assistant/precache-manifest.69a7ce3098873194a9a7636797a29398.js",
+    "service-worker.js": "/in-browser-voice-assistant/service-worker.js",
+    "static/css/main.a823dac9.chunk.css.map": "/in-browser-voice-assistant/static/css/main.a823dac9.chunk.css.map",
+    "static/js/2.77c88879.chunk.js.LICENSE": "/in-browser-voice-assistant/static/js/2.77c88879.chunk.js.LICENSE",
+    "static/media/dog-listening.jpg": "/in-browser-voice-assistant/static/media/dog-listening.add4fedf.jpg",
+    "static/media/dog-off.jpg": "/in-browser-voice-assistant/static/media/dog-off.fbfd34ba.jpg",
+    "static/media/dog-speaking.jpg": "/in-browser-voice-assistant/static/media/dog-speaking.5c1ee2e0.jpg",
+    "static/media/dog-thinking.jpg": "/in-browser-voice-assistant/static/media/dog-thinking.aae2d64d.jpg",
+    "static/media/dog-waiting.jpg": "/in-browser-voice-assistant/static/media/dog-waiting.32833b10.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.164e8902.js",
-    "static/js/2.99af2242.chunk.js",
+    "static/js/runtime-main.03330086.js",
+    "static/js/2.77c88879.chunk.js",
     "static/css/main.a823dac9.chunk.css",
-    "static/js/main.0fdc8e1a.chunk.js"
+    "static/js/main.c7e56eef.chunk.js"
   ]
 }
